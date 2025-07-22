@@ -1,0 +1,18 @@
+{
+  "id": "1234567890",
+  "token": "aW50ZXJhY3Rpb246...",
+  "type": 3,
+  "data": {
+    "custom_id": "sendEmail | thread123 | msg456 | Project Update"
+  },
+  "member": {
+    "user": {
+      "id": "user_001",
+      "username": "brutus",
+      "global_name": "Brutus"
+    }
+  },
+  "message": {
+    "content": "Hey team! Here's the update on the project..."
+  }
+}
